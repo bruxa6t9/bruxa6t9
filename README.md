@@ -67,7 +67,7 @@ Hey there! I'm **Rakib Adil** 👨‍💻
 </p>
 
 <p align="center">
-  <img src="https://github.com/bruxa6t9/bruxa6t9/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/bruxa6t9/bruxa6t9/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </p>
 
 ---
